@@ -1,0 +1,22 @@
+{
+  "name": "Angularjs Project",
+  "version": "1.0.0",
+  "description": "Retail Inventory Management",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.12.0",
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anurag60/Angularjs_Project.git"
+  },
+  "author": "Anurag Sarkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anurag60/Angularjs_Project/issues"
+  },
+  "homepage": "https://github.com/anurag60/Angularjs_Project#readme"
+}
